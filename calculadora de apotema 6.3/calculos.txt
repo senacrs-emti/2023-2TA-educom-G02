@@ -1,0 +1,7 @@
+0.70710670811 * 141.4213510746 = 100
+
+<para calcular o tamanho dos lados quadrado circunscrito na circuferencia calculei o diametro da 
+circuferencia que seria equivalente a diagonal do quadrado se a diagonal do quadrado é 100 seus lados 
+serão 70.710670811>
+
+
