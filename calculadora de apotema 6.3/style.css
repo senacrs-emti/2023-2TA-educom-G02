@@ -147,7 +147,9 @@ header {
   margin: 0px;
   font-size: 20px;
 }
-
+.af {
+  display: inline;
+}
 footer {
   height: 10%;
   width: 100%;
